@@ -3,7 +3,7 @@ A Fancy Clock built around a monitor and a Raspberry Pi
 
 Heavily Modified from OG, hence the fork.
 
-
+(Pic)[https://raw.githubusercontent.com/thessnake03/PiClock/refs/heads/master/Pictures/20250219_135226.jpg}
 
 This project started out as a way to waste a Saturday afternoon.
 I had a Raspberry Pi and an extra monitor and had just taken down an analog clock from my livingroom wall.
